@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I help develop ideas from [**Código Base**](https://codigobase.es) with the power of [**Flutter**](https://flutter.dev).
+I help develop ideas with the power of [**Flutter**](https://flutter.dev).
 
 #### Summary of my contribution
 
