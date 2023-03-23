@@ -35,8 +35,8 @@ I help develop ideas with the power of [**Flutter**](https://flutter.dev).
 
 #### Blog
 
-https://medium.com/@gdgmarbella/hablamos-con-los-speakers-de-devfest-marbella-jos%C3%A9-manuel-marquez-e521b4a81e7a
-https://www.diariosur.es/marbella-estepona/mimeta-app-capacidades-diversas-20220526145334-nt.html
+- https://medium.com/@gdgmarbella/hablamos-con-los-speakers-de-devfest-marbella-jos%C3%A9-manuel-marquez-e521b4a81e7a
+- https://www.diariosur.es/marbella-estepona/mimeta-app-capacidades-diversas-20220526145334-nt.html
 
 #### Videos
 
