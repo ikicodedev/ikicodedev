@@ -41,6 +41,7 @@ I help develop ideas with the power of [**Flutter**](https://flutter.dev).
 #### Videos
 
 - https://www.youtube.com/watch?v=Yv6F9oTHIqY
+- https://www.youtube.com/@codigobase
 - https://www.youtube.com/watch?v=DjQalyVfp3g
 - https://www.youtube.com/watch?v=yEefCX2gv90
 - https://www.youtube.com/watch?v=ROufNbCH_ow
